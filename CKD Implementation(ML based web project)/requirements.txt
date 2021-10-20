@@ -6,5 +6,4 @@ pandas>=0.19
 xgboost>=1.5.0
 pickle>=4.0
 streamlit
-flask
-matplotlib.pyplot
+
